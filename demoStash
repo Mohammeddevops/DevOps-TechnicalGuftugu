@@ -1,3 +1,10 @@
+This file is created for demo of git stash
+..
+..
+..
+1.2
+.3
+
 Again adding data in stash file after git stash
 ...
 ...
@@ -5,3 +12,4 @@ Again adding data in stash file after git stash
 1
 2
 3
+=======
